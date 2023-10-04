@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/collegeClubWebsite/static/css/main.00f01ece.css",
+    "main.js": "/collegeClubWebsite/static/js/main.d3bfbcf6.js",
+    "static/js/787.c378e6ab.chunk.js": "/collegeClubWebsite/static/js/787.c378e6ab.chunk.js",
+    "static/media/bgVideo.mp4": "/collegeClubWebsite/static/media/bgVideo.ab1453b1617423755e77.mp4",
+    "static/media/pic11.jpeg": "/collegeClubWebsite/static/media/pic11.3a1d0eefa3d949050eaf.jpeg",
+    "static/media/pic12.jpeg": "/collegeClubWebsite/static/media/pic12.3572049d9d4b8874655d.jpeg",
+    "static/media/pic8.jpeg": "/collegeClubWebsite/static/media/pic8.765e726247339f39447a.jpeg",
+    "static/media/pic6.jpeg": "/collegeClubWebsite/static/media/pic6.1bfa09f282606365e633.jpeg",
+    "static/media/pic1.jpeg": "/collegeClubWebsite/static/media/pic1.e180e4e804fb6097a0b3.jpeg",
+    "static/media/pic2.jpeg": "/collegeClubWebsite/static/media/pic2.b3e118e82809bdd0a1c3.jpeg",
+    "static/media/pic9.jpeg": "/collegeClubWebsite/static/media/pic9.4c6d038e8211812e7ec0.jpeg",
+    "static/media/pic3.jpeg": "/collegeClubWebsite/static/media/pic3.34992fc9f9329e6fbd12.jpeg",
+    "static/media/pic7.jpeg": "/collegeClubWebsite/static/media/pic7.84892a89205779eb9f87.jpeg",
+    "static/media/pic4.jpeg": "/collegeClubWebsite/static/media/pic4.837a5a0077c3b26544c2.jpeg",
+    "static/media/pic5.jpeg": "/collegeClubWebsite/static/media/pic5.254c298886dfb1ab003d.jpeg",
+    "static/media/pic10.jpeg": "/collegeClubWebsite/static/media/pic10.e0bc951170b078d07eec.jpeg",
+    "static/media/aboutLogo.png": "/collegeClubWebsite/static/media/aboutLogo.106bfcdf1ebd90612f4a.png",
+    "static/media/logo.png": "/collegeClubWebsite/static/media/logo.106bfcdf1ebd90612f4a.png",
+    "index.html": "/collegeClubWebsite/index.html",
+    "main.00f01ece.css.map": "/collegeClubWebsite/static/css/main.00f01ece.css.map",
+    "main.d3bfbcf6.js.map": "/collegeClubWebsite/static/js/main.d3bfbcf6.js.map",
+    "787.c378e6ab.chunk.js.map": "/collegeClubWebsite/static/js/787.c378e6ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f01ece.css",
+    "static/js/main.d3bfbcf6.js"
+  ]
+}
